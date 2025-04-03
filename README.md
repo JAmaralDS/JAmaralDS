@@ -8,7 +8,7 @@
 
 | 📌 Projeto | Descrição |
 |------------|-----------|
-| [📊 Análise de ETFs Brasileiros](https://github.com/JAmaralDS/ETFsAnalysis/tree/main](https://github.com/JAmaralDS/ETFsAnalysis) | Análise exploratória de ETFs brasileiros, avaliando risco e rentabilidade ao longo do tempo. |  |
+| [📊 Análise de ETFs Brasileiros](https://github.com/JAmaralDS/ETFsAnalysis) | Análise exploratória de ETFs brasileiros, avaliando risco e rentabilidade ao longo do tempo. |  |
 
 
 ## 🛠️ Tecnologias & Ferramentas  
